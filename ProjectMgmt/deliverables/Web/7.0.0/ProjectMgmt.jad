@@ -1,0 +1,16 @@
+MIDlet-Name: ProjectMgmt
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: BlackBerry Developer
+MIDlet-Jar-URL: ProjectMgmt.jar
+MIDlet-Jar-Size: 31424
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: ,img/project-management.png,
+RIM-MIDlet-Flags-1: 0
+Manifest-Version: 1.0
+RIM-COD-URL: ProjectMgmt.cod
+RIM-COD-Size: 14052
+RIM-COD-Creation-Time: 1331050750
+RIM-COD-Module-Name: ProjectMgmt
+RIM-COD-Module-Dependencies: net_rim_cldc
+RIM-COD-SHA1: 0e 9d ff d6 78 b0 36 ec cc 12 77 f7 9d d0 1d 30 28 be de 3b
