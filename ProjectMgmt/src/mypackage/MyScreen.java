@@ -62,7 +62,7 @@ public final class MyScreen extends MainScreen
         //setting the main buttons to either login or settings
         HorizontalFieldManager mainButton = new HorizontalFieldManager(Manager.FIELD_RIGHT);
         final ButtonField register = new ButtonField("Register",Field.FIELD_RIGHT);
-        final ButtonField login = new ButtonField("Login",Field.FIELD_RIGHT);
+        final ButtonField login = new ButtonField("Register/Login",Field.FIELD_RIGHT);
         ButtonField settings = new ButtonField("Settings",Field.FIELD_RIGHT);
         mainButton.add(register);
         mainButton.add(login);
